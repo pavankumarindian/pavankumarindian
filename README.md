@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar Gudipati 🌀 from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pavan-kumar-gudipati-814911289/" target="blank">
