@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pavankumarindian&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Sonix HR](https://www.sonixhr.com/home) as **Associate Software Engineer**
+🏢 I’m currently working in [Sonix HR](https://www.sonixhr.com) as **Associate Software Engineer**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
